@@ -1,5 +1,7 @@
 <template>
-    <div>Wang</div>
+    <div>
+        Wang-第二天
+    </div>
 </template>
 
 <script>
