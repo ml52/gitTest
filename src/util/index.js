@@ -4,3 +4,6 @@ function format() {
 function Wang() {
     console.log("Wang");
 }
+function King() {
+    console.log("King");
+}
